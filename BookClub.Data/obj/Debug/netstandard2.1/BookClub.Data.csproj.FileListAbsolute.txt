@@ -1,0 +1,12 @@
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\bin\Debug\netstandard2.1\BookClub.Data.deps.json
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\bin\Debug\netstandard2.1\BookClub.Data.dll
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\bin\Debug\netstandard2.1\BookClub.Data.pdb
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\bin\Debug\netstandard2.1\BookClub.Entities.dll
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\bin\Debug\netstandard2.1\BookClub.Entities.pdb
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.1\BookClub.Data.csprojAssemblyReference.cache
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.1\BookClub.Data.AssemblyInfoInputs.cache
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.1\BookClub.Data.AssemblyInfo.cs
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.1\BookClub.Data.csproj.CoreCompileInputs.cache
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.1\BookClub.Data.csproj.CopyComplete
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.1\BookClub.Data.dll
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Data\obj\Debug\netstandard2.1\BookClub.Data.pdb

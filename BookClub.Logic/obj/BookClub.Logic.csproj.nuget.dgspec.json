@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Logic\\BookClub.Logic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Data\\BookClub.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Data\\BookClub.Data.csproj",
+        "projectName": "BookClub.Data",
+        "projectPath": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Data\\BookClub.Data.csproj",
+        "packagesPath": "C:\\Users\\18165\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\18165\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Entities\\BookClub.Entities.csproj": {
+                "projectPath": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Entities\\BookClub.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Entities\\BookClub.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Entities\\BookClub.Entities.csproj",
+        "projectName": "BookClub.Entities",
+        "projectPath": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Entities\\BookClub.Entities.csproj",
+        "packagesPath": "C:\\Users\\18165\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\18165\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Logic\\BookClub.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Logic\\BookClub.Logic.csproj",
+        "projectName": "BookClub.Logic",
+        "projectPath": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Logic\\BookClub.Logic.csproj",
+        "packagesPath": "C:\\Users\\18165\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\18165\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Data\\BookClub.Data.csproj": {
+                "projectPath": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Data\\BookClub.Data.csproj"
+              },
+              "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Entities\\BookClub.Entities.csproj": {
+                "projectPath": "C:\\Users\\18165\\Downloads\\aspnetcore-effective-logging-master\\aspnetcore-effective-logging-master\\AspNetCore-Effective-Logging\\BookClub.Entities\\BookClub.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

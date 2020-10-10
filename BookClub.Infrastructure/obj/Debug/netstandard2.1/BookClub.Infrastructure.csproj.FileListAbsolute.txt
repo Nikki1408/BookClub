@@ -1,0 +1,12 @@
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\bin\Debug\netstandard2.1\BookClub.Infrastructure.deps.json
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\bin\Debug\netstandard2.1\BookClub.Infrastructure.dll
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\bin\Debug\netstandard2.1\BookClub.Infrastructure.pdb
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\bin\Debug\netstandard2.1\BookClub.Entities.dll
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\bin\Debug\netstandard2.1\BookClub.Entities.pdb
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\obj\Debug\netstandard2.1\BookClub.Infrastructure.csprojAssemblyReference.cache
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\obj\Debug\netstandard2.1\BookClub.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\obj\Debug\netstandard2.1\BookClub.Infrastructure.AssemblyInfo.cs
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\obj\Debug\netstandard2.1\BookClub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\obj\Debug\netstandard2.1\BookClub.Infrastructure.csproj.CopyComplete
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\obj\Debug\netstandard2.1\BookClub.Infrastructure.dll
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Infrastructure\obj\Debug\netstandard2.1\BookClub.Infrastructure.pdb

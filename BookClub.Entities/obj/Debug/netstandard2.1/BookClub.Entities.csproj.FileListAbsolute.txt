@@ -1,0 +1,9 @@
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Entities\bin\Debug\netstandard2.1\BookClub.Entities.deps.json
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Entities\bin\Debug\netstandard2.1\BookClub.Entities.dll
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Entities\bin\Debug\netstandard2.1\BookClub.Entities.pdb
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.1\BookClub.Entities.csprojAssemblyReference.cache
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.1\BookClub.Entities.AssemblyInfoInputs.cache
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.1\BookClub.Entities.AssemblyInfo.cs
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.1\BookClub.Entities.csproj.CoreCompileInputs.cache
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.1\BookClub.Entities.dll
+C:\Users\18165\Downloads\aspnetcore-effective-logging-master\aspnetcore-effective-logging-master\AspNetCore-Effective-Logging\BookClub.Entities\obj\Debug\netstandard2.1\BookClub.Entities.pdb
